@@ -1,5 +1,5 @@
+
 # Hey, I'm Subrat 🙋‍♂️
-I’m a Data Science & Applications student at IIT Madras, a vibe-driven coder who's deeply passionate about quantitative finance, machine learning, and all things data science.<br>I also secured a Global Rank of 300 in IQC 2024.<br><br>🔭 I’m currently working on<br>FinSight — a finance analytics tool combining quant logic with data-driven insights.<br><br>👯 I’m looking to collaborate on<br>ML/AI projects, quant research, and data-driven product ideas.<br><br>🤝 I’m looking for help with<br>Fine-tuning ML models and exploring advanced quant strategies.<br><br>🌱 I’m currently learning<br>Time-series forecasting, portfolio optimization, and scalable ML systems.<br><br>💬 Ask me about<br>Anything quant, Python, data science workflows, or turning ideas into clean code.<br><br>⚡ Fun fact<br>I break complicated problems for fun — and sometimes fix them too.
 
 
 ## 🌐 Socials:
@@ -12,11 +12,6 @@ I’m a Data Science & Applications student at IIT Madras, a vibe-driven coder w
 ![](https://nirzak-streak-stats.vercel.app/?user=sub-shi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sub-shi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sub-shi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sub-shi&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
